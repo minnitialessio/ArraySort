@@ -18,6 +18,11 @@ namespace ArraySort
                 Console.WriteLine(array[i]);
             }
 
+            for (int i = array.Length-1; i > 0; i--)
+            {
+                Console.WriteLine(array[i]);
+            }
+
             Console.ReadKey();
         }
     }
