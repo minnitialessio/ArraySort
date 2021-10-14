@@ -1,0 +1,7 @@
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\obj\Debug\ArraySort.csprojAssemblyReference.cache
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\obj\Debug\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Alessio\Desktop\ArraySort\ArraySort\obj\Debug\ArraySort.pdb
